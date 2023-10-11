@@ -1,0 +1,17 @@
+body {
+  background-color: rgb(95, 141, 141);
+}
+
+:root {
+  --bg-color: green ;
+}
+
+h1 {
+  color: var(--bg-color);
+}
+
+p {
+  background-color: var(--bg-color);
+}
+
+/*# sourceMappingURL=style.css.map */

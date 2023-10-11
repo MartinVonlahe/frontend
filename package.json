@@ -1,0 +1,9 @@
+{
+  "description": "bootstrap demoinstall vitega",
+  "devDependencies": {
+    "vite": "^4.4.9"
+  },
+  "dependencies": {
+    "sass": "^1.66.1"
+  }
+}
